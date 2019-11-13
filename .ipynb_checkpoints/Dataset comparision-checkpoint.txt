@@ -1,0 +1,4 @@
+https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83ac9-8069-4cf1-bcc3-b9e6b04487d9
+https://data.wprdc.org/dataset/uniform-crime-reporting-data
+
+Ratio of Smart Trash Containers to Crime rate by neighborhood
